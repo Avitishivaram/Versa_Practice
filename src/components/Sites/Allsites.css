@@ -1,0 +1,10 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 45px;
+    background-color: rgb(255, 238, 0);
+    padding: 15px;
+    color: #070000;
+
+
+}
